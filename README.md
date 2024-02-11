@@ -8,7 +8,7 @@ Requires Minecraft 1.20.1, [Fabric Loader](https://fabricmc.net/) >=0.14.25, [Fa
 
 ### Configuration
 The mod can be configured from within the file ".minecraft/config/stepupblocks.json5" or using modmenu.\
-This mod can be configured to:\
+This mod can be configured to:
 * Not allow stepping up a block while sneaking
 * Not allow stepping up a block while "swimming" (or just being forced into swimming)
 * Not allow stepping up a block if a special, configurable key, is not currently held
