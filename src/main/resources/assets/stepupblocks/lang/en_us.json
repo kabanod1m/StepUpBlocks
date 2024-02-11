@@ -1,0 +1,10 @@
+{
+  "text.autoconfig.stepupblocks.title": "StepUpBlocks Config",
+  "text.autoconfig.stepupblocks.option.modEnabled": "Enable mod",
+  "text.autoconfig.stepupblocks.option.whenHeld": "Require Step Up key to be held",
+  "text.autoconfig.stepupblocks.option.whenSneaking": "Allow while sneaking",
+  "text.autoconfig.stepupblocks.option.whenSwimming": "Allow while swimming",
+  "text.autoconfig.stepupblocks.option.stepHeight": "Maximum step height",
+  "key.stepupblocks.stepup": "Step Up",
+  "category.stepupblocks.main": "StepUpBlocks Mod"
+}

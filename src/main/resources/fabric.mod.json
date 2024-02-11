@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "id": "stepupblocks",
+  "version": "${version}",
+  "name": "StepUpBlocks",
+  "description": "A configurable Fabric Minecraft mod that lets you step up full blocks like stairs or slabs.",
+  "authors": [
+    "kabanod1m"
+  ],
+  "contact": {
+    "website": "winglessbirds.org",
+    "repo": "https://github.com/kabanod1m/StepUpBlocks"
+  },
+  "license": "MIT",
+  "icon": "assets/stepupblocks/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "org.winglessbirds.stepupblocks.client.StepUpBlocksClient"
+    ],
+    "main": [
+      "org.winglessbirds.stepupblocks.StepUpBlocks"
+    ],
+    "modmenu": [
+      "org.winglessbirds.stepupblocks.config.ModMenuIntegration"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}
