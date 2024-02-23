@@ -4,7 +4,7 @@ It does so by increasing a player's stepHeight value.\
 (Of course, if stepHeight is already higher than specified via config, the mod does not lower it)
 
 ### Installation
-Requires Minecraft 1.20.1, [Fabric Loader](https://fabricmc.net/) >=0.14.25, [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api), [Pehkui](https://github.com/Virtuoel/Pehkui) and [Cloth Config API](https://www.curseforge.com/minecraft/mc-mods/cloth-config).
+Requires Minecraft 1.20.1, [Fabric Loader](https://fabricmc.net/) >=0.14.25, [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api) and [Cloth Config API](https://www.curseforge.com/minecraft/mc-mods/cloth-config).
 
 ### Configuration
 The mod can be configured from within the file ".minecraft/config/stepupblocks.json5" or using modmenu.\
